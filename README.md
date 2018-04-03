@@ -1,2 +1,3 @@
-# it-bg-dictionary
-A dictionary for displaying the translations of the main programming and it terms in Bulgarian. 
+# КодЪ - термините в програмирането на Български език.
+
+Да побългарим програмирането!
